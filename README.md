@@ -26,8 +26,4 @@
 
 
 
-# Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
- [<img src="https://avatars0.githubusercontent.com/u/17107752?s=400&v=4" width="100px;"/>](https://github.com/MAZHARMIK)
-<!-- ALL-CONTRIBUTORS-LIST:END -->
